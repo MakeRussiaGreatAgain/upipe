@@ -6,7 +6,7 @@
 Goal: To make great quality audio accessible to anyone who is connected to the internet. No additional costs. No Ads.
 <br />
 ### Technical Details:
-- Framework: React-Native (v0.52.1)
+- Framework: React-Native (v-0.52.1)
 - Additional Dependencies: None so far
 <br />
 Each build will have it's own branch. The final build will be merged to the master branch.
