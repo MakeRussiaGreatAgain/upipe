@@ -12,6 +12,7 @@ Goal: To make great quality audio accessible to anyone who is connected to the i
 Each build will have it's own branch. The final build will be merged to the master branch.
 <br />
 Latest Build: 
+
 ```
 0.0.1 - alpha
 ```
