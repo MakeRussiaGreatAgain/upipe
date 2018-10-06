@@ -21,4 +21,7 @@ Latest Build:
 ### Problems?
 If you are facing any problems, feel free to open an issue! We will get on it as soon as possible. Questions regarding react-native can also be dropped in the issue. We will help you, the best we can.
 
+### How the App looks?
+Each branch contains a screenshot folder that should give an idea of how the app looks and functions. We will try to keep this as updated as possible. 
+
 ### µPipe - It's not your music. It's our music!
