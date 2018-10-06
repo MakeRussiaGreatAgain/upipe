@@ -1,0 +1,4 @@
+#Sat Oct 06 16:14:38 IST 2018
+base.0=/home/gilfoyle/anton/open-source/upipe/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
