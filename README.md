@@ -1,6 +1,7 @@
 # µPipe
 
-Breaking Changes Introduced!
+### Breaking Changes Introduced!
+<br />
 <br />
 We realized our poor choice at selecting dependencies. Our project came to a halt when we realized how Youtube encodes each of it's videos and it's almost impossible to get the audio stream. So we did the next best thing possible: Use the dedicated YT video player and run it in audio mode.
 
