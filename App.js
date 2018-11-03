@@ -90,7 +90,7 @@ class App extends Component {
                   style={{width: 320, height: 180}}/>
                 <View style={styles.vidItems}>
                   <Image 
-                    source={require('./images/NightKing.jpg')} 
+                    source={require('./images/default.jpg')} 
                     style={{width: 40, height: 40, borderRadius: 20, marginRight: 5}}/>
                   <Text style={styles.vidText}>{item.snippet.title}</Text>
                   <Icon name='more-vert' size={20} color='#555'/> 
