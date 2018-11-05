@@ -1,27 +1,8 @@
 # µPipe
 
-µPipe is a project that seeks to bring the joy of Youtube Music to everyone, everywhere. 
+### Breaking Changes Introduced!
 <br />
 <br />
-Goal: To make great quality audio accessible to anyone who is connected to the internet. No additional costs. No Ads.
-<br />
-### Technical Details:
-- Framework: React-Native (v-0.52.1)
-- Additional Dependencies: None so far
-<br />
-Each build will have it's own branch. The final build will be merged to the master branch.
-<br />
-<br />
-Latest Build: 
+We realized our poor choice at selecting dependencies. Our project came to a halt when we realized how Youtube encodes each of it's videos and it's almost impossible to get the audio stream. So we did the next best thing possible: Use the dedicated YT video player and run it in audio mode.
 
-```
-0.0.1 - alpha
-```
-
-### Problems?
-If you are facing any problems, feel free to open an issue! We will get on it as soon as possible. Questions regarding react-native can also be dropped in the issue. We will help you, the best we can.
-
-### How the App looks?
-Each branch contains a screenshot folder that should give an idea of how the app looks and functions. We will try to keep this as updated as possible. 
-
-### µPipe - It's not your music. It's our music!
+### Work in Progress. We are working on getting the previes up as soon as possible. 
